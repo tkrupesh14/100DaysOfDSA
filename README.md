@@ -1,6 +1,6 @@
 # 100 Days Of DSA By Krupesh Vithlani
 
-Hello 👋, Krupesh This side. Currntly I am Learning JavaScript. So, I have decided that Let's Start the 365 Days Of Code Journey With [Coders Evoke](http://codersevoke.us/).
+Hello 👋, Krupesh This side. Currntly I am Learning JavaScript. So, I have decided that Let's Start the 100 Days Of DSA Journey With [Coders Evoke](http://codersevoke.us/).
 
 ### Watch My Full Journy Clicking on Days
 
